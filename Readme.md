@@ -36,7 +36,7 @@ A simple project developed to calculate student attendance percentage efficientl
 
 # 🌐 Connect With Me
 
-* LinkedIn: [https://www.linkedin.com/in/kr-vedadri-57b47b3ab](https://www.linkedin.com/in/kr-vedadri-57b47b3ab)
+* LinkedIn: https://www.linkedin.com/in/kr-vedadri?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
