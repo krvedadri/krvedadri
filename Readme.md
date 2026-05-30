@@ -1,11 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krvedadri/krvedadri/main/vedadrigithub.png" alt="KR Vedadri Banner" width="100%">
+</p>
 # Hi 👋, I'm KR Vedadri
-<p align="center">
-  <img src="https://raw.githubusercontent.com/krvedadri/krvedadri/main/banner.png" alt="KR Vedadri Banner" width="100%">
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Web+Developer;Cloud+Computing+Learner;Open+Source+Enthusiast" />
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/kr-vedadri">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
