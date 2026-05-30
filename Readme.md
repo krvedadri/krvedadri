@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/krvedadri/krvedadri/main/vedadrigithub.png" alt="KR Vedadri Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/krvedadri/krvedadri/main/vedadrigithub.png" 
+       alt="KR Vedadri Banner"
+       width="900"
+       height="300">
 </p>
 # Hi 👋, I'm KR Vedadri
 <p align="center">
