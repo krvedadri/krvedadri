@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="400">
+</p>
 # Hi 👋, I'm KR VEDADRI
 
 ## 🚀 About Me
@@ -67,3 +70,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
