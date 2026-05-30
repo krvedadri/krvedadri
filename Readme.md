@@ -1,75 +1,75 @@
+# Hi 👋, I'm KR Vedadri
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="400">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Web+Developer;Cloud+Computing+Learner;Open+Source+Enthusiast" />
 </p>
-# Hi 👋, I'm KR VEDADRI
 
-## 🚀 About Me
-
-I am a 3rd Year B.E CSE (AIML) student at SCSVMV University, Kanchipuram.
-
-I am passionate about programming, web development, artificial intelligence, and cloud computing. I enjoy learning new technologies and building practical projects.
-
----
-
-# 💻 Skills
-
-* C
-* C++
-* HTML
-* Python
-* Cloud Computing
+<p align="center">
+  <a href="https://www.linkedin.com/in/kr-vedadri">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 ---
 
-# 📚 Currently Learning
+## 👨‍💻 About Me
 
-* Web Development
-* Artificial Intelligence & Machine Learning
-* Cloud Technologies
+🎓 B.E CSE (AI & ML) Student at SCSVMV University
 
----
+💡 Passionate about AI, Web Development, and Cloud Computing
 
-# 🛠️ Projects
+🌱 Currently learning Full Stack Development and Machine Learning
 
-## 📌 Attendance Calculator
-
-A simple project developed to calculate student attendance percentage efficiently.
+🚀 Building projects and improving problem-solving skills
 
 ---
 
-# 🌐 Connect With Me
+## 🛠 Tech Stack
 
-* LinkedIn: https://www.linkedin.com/in/kr-vedadri
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode" />
+</p>
 
 ---
 
-# ✨ Quote
+## 📊 GitHub Stats
 
-"Consistency and continuous learning lead to success."
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=krvedadri&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krvedadri&theme=tokyonight" />
+</p>
 
-<!--
-**krvedadri/krvedadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krvedadri&layout=compact&theme=tokyonight" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=krvedadri&theme=tokyonight&row=1&column=6" />
+</p>
 
+---
 
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krvedadri&theme=tokyo-night" />
+</p>
+
+---
+
+## 💬 Quote
+
+> "Continuous learning and consistent effort create extraordinary results."
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+</p>
